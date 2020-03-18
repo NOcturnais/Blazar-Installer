@@ -1,0 +1,93 @@
+﻿<Mappings><Entry OldName="Blazar_Installer.Form1.mouseDown" NewName="Blazar_Installer.Form1.c30fc647ad4e87d6615e7b2aa246e18e4" />
+<Entry OldName="Blazar_Installer.Form1.lastLocation" NewName="Blazar_Installer.Form1.cb64b9436b887f27e8135c35af193eb92" />
+<Entry OldName="Blazar_Installer.Form1.components" NewName="Blazar_Installer.Form1.c4888517ef8480088bd90104cec5146b7" />
+<Entry OldName="Blazar_Installer.Form1.button1" NewName="Blazar_Installer.Form1.cbad5a64b956e22749a34f52870e6fe9a" />
+<Entry OldName="Blazar_Installer.Form1.button2" NewName="Blazar_Installer.Form1.cf6ba6b1279c6ec7e1ba74394782af19f" />
+<Entry OldName="Blazar_Installer.Form1.richTextBox1" NewName="Blazar_Installer.Form1.c5c08fdeba10dbfbc12faa36e6e0f160b" />
+<Entry OldName="Blazar_Installer.Form1.panel1" NewName="Blazar_Installer.Form1.c0aa11acd402cf46aa588a31a56a09321" />
+<Entry OldName="Blazar_Installer.Form1.panel2" NewName="Blazar_Installer.Form1.c1818ad67da50fc8bdff5c5557914a78d" />
+<Entry OldName="Blazar_Installer.login.components" NewName="Blazar_Installer.login.c4888517ef8480088bd90104cec5146b7" />
+<Entry OldName="Blazar_Installer.login.textBox1" NewName="Blazar_Installer.login.c6ecbe5689977f829de44cf67952b4822" />
+<Entry OldName="Blazar_Installer.login.button1" NewName="Blazar_Installer.login.cbad5a64b956e22749a34f52870e6fe9a" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceMan" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445.cbc3c7ce253df2a5bbb388fd7c0aae85d" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceCulture" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445.c528d5f71556ca1dcb72a0fc9ecddc420" />
+<Entry OldName="Blazar_Installer.Form1.&lt;&gt;c.&lt;&gt;9" NewName="Blazar_Installer.Form1.&lt;&gt;c.ceb0c14384df7eaa99cf192ceb95acfbc" />
+<Entry OldName="Blazar_Installer.Form1.&lt;&gt;c.&lt;&gt;9__12_0" NewName="Blazar_Installer.Form1.&lt;&gt;c.c6a813c8c503507043d8c81730c92701e" />
+<Entry OldName="Blazar_Installer.Form1.button2_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.ca7d589f4c4d4a6edd30f124a6bd162a6(Object c136c85dbb78cbaa5f50899cd96e23c21, EventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.addInfoRTB(String info)" NewName="Blazar_Installer.Form1.c030b1a8f6d74695114b08161bf32a832(String c5099568617f8161f37a406c0bde82bb9)" />
+<Entry OldName="Blazar_Installer.Form1.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.cc65295ea7b13bb504e4da7c4c9e8f3c6(Object c136c85dbb78cbaa5f50899cd96e23c21, EventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel1_mouseDown(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.c4d2a959e76b6f4baaa29b2e58c2faf14(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel1_MouseMove(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.c4b3473c60f35a6eab5e756467f755950(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel1_MouseUp(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.cfbdecf7dc5bda4674f260c71bcd60703(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel2_MouseDown(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.c65072172e406c55c30655592dababb3a(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel2_MouseMove(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.c3658c7495254cbf377b397e82d74fd22(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.panel2_MouseUp(Object sender, MouseEventArgs e)" NewName="Blazar_Installer.Form1.c7a0777c504568824331b8773aa052ffb(Object c136c85dbb78cbaa5f50899cd96e23c21, MouseEventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.Form1_Load(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.c275fbbc825db40c9087e2814f7b0a8cb(Object c136c85dbb78cbaa5f50899cd96e23c21, EventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.Form1.InitializeComponent()" NewName="Blazar_Installer.Form1.c98176e6eeec0352b05fc5ea159c1f05d()" />
+<Entry OldName="Blazar_Installer.login.login_Load(Object sender, EventArgs e)" NewName="Blazar_Installer.login.c2ce82005281bcd48193709a394135d18(Object c136c85dbb78cbaa5f50899cd96e23c21, EventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.login.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.login.cc65295ea7b13bb504e4da7c4c9e8f3c6(Object c136c85dbb78cbaa5f50899cd96e23c21, EventArgs c19d4149e623c99d57f9c33f48a2dde5b)" />
+<Entry OldName="Blazar_Installer.login.InitializeComponent()" NewName="Blazar_Installer.login.c98176e6eeec0352b05fc5ea159c1f05d()" />
+<Entry OldName="Blazar_Installer.Program.Main()" NewName="A.c77a4d6466eb259c34064445cb95992f0.cb1230efda235bf9fb04e10a404ac5efb()" />
+<Entry OldName="Blazar_Installer.Properties.Resources..ctor()" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445..ctor()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_ResourceManager()" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445.get_ResourceManager()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_Culture()" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445.get_Culture()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445.set_Culture(CultureInfo value)" />
+<Entry OldName="Blazar_Installer.Form1.&lt;&gt;c.&lt;Form1_Load&gt;b__12_0(Object &lt;p0&gt;, X509Certificate &lt;p1&gt;, X509Chain &lt;p2&gt;, SslPolicyErrors &lt;p3&gt;)" NewName="Blazar_Installer.Form1.&lt;&gt;c.cb8e423d0b21740f8a40e2d4b81d90775(Object cba146616d1315f358599793ffe7942be, X509Certificate c1641b49e4bc190280b6a803a481eab3b, X509Chain ce1c481462c87a3003310b4334ecd02d0, SslPolicyErrors c931ff241d3bb686908563f0e92c4ec29)" />
+<Entry OldName="Blazar_Installer.Program" NewName="A.c77a4d6466eb259c34064445cb95992f0" />
+<Entry OldName="Blazar_Installer.Properties.Resources" NewName="A.c8d14a3ef617a9f9d05ff3a6994307445" />
+<Assembly Name="Blazar Installer"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Blazar_Installer.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="button2_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;" ParamCnt="3" />
+<Method Token="100663300" Name="addInfoRTB" Variables="this;info;" ParamCnt="2" />
+<Method Token="100663301" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;" ParamCnt="3" />
+<Method Token="100663302" Name="panel1_mouseDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663303" Name="panel1_MouseMove" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663304" Name="panel1_MouseUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663305" Name="panel2_MouseDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663306" Name="panel2_MouseMove" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663307" Name="panel2_MouseUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663308" Name="Form1_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663309" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663310" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108865" Name="mouseDown" />
+<Field Token="67108866" Name="lastLocation" />
+<Field Token="67108867" Name="components" />
+<Field Token="67108868" Name="button1" />
+<Field Token="67108869" Name="button2" />
+<Field Token="67108870" Name="richTextBox1" />
+<Field Token="67108871" Name="panel1" />
+<Field Token="67108872" Name="panel2" />
+<Type Token="33554436" Name="Blazar_Installer.login" />
+<Method Token="100663312" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663313" Name="login_Load" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663314" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663315" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663316" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108873" Name="components" />
+<Field Token="67108874" Name="textBox1" />
+<Field Token="67108875" Name="button1" />
+<Type Token="33554438" Name="Blazar_Installer.Program" />
+<Method Token="100663323" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554439" Name="Blazar_Installer.Properties.Resources" />
+<Method Token="100663324" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663325" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663326" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663327" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108877" Name="resourceMan" />
+<Field Token="67108878" Name="resourceCulture" />
+<Type Token="33554440" Name="Blazar_Installer.Properties.Settings" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663330" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108879" Name="defaultInstance" />
+<Type Token="33554441" Name="Blazar_Installer.Form1/&lt;&gt;c" />
+<Method Token="100663331" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663332" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663333" Name="&lt;Form1_Load&gt;b__12_0" Variables="this;&lt;p0&gt;;&lt;p1&gt;;&lt;p2&gt;;&lt;p3&gt;;V_0;" ParamCnt="5" />
+<Field Token="67108880" Name="&lt;&gt;9" />
+<Field Token="67108881" Name="&lt;&gt;9__12_0" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663311" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

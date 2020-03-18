@@ -1,0 +1,76 @@
+﻿<Mappings><Entry OldName="Blazar_Installer.Form1.components" NewName="Blazar_Installer.Form1.c04a71afe125e0cc0bceb19a1fdc3a9d7" />
+<Entry OldName="Blazar_Installer.Form1.button1" NewName="Blazar_Installer.Form1.ca4c52c69012169b611d1692f8fed1ca9" />
+<Entry OldName="Blazar_Installer.Form1.button2" NewName="Blazar_Installer.Form1.c5a01536a33643e1f334c696d9f4a4fd8" />
+<Entry OldName="Blazar_Installer.Form1.richTextBox1" NewName="Blazar_Installer.Form1.c5c8f4119508b9d37d93007cce2a10768" />
+<Entry OldName="Blazar_Installer.login.components" NewName="Blazar_Installer.login.c04a71afe125e0cc0bceb19a1fdc3a9d7" />
+<Entry OldName="Blazar_Installer.login.textBox1" NewName="Blazar_Installer.login.c2ae13d41fba3cc83e431c89906cf51a3" />
+<Entry OldName="Blazar_Installer.login.button1" NewName="Blazar_Installer.login.ca4c52c69012169b611d1692f8fed1ca9" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceMan" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39.c147793a6888c784254106551a26fdd4f" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceCulture" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39.c11534edeaec7cb0724acc174af16f594" />
+<Entry OldName="Blazar_Installer.Form1.button2_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.c265a066133c9211bf4ae476d255355b8(Object cec6e3b17b175c836631ffdf3507567a1, EventArgs cb29241352e3a0b90c6b2c75a3273e426)" />
+<Entry OldName="Blazar_Installer.Form1.addInfoRTB(String info)" NewName="Blazar_Installer.Form1.caa9bb899e558adfef96da96fb7f91aee(String c9b0d7380c3d9a112ef4d4e1746bad6c9)" />
+<Entry OldName="Blazar_Installer.Form1.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.c39dc6bd8affabaa5aefbde199985bf5d(Object cec6e3b17b175c836631ffdf3507567a1, EventArgs cb29241352e3a0b90c6b2c75a3273e426)" />
+<Entry OldName="Blazar_Installer.Form1.InitializeComponent()" NewName="Blazar_Installer.Form1.c924ed6994b1b124fe512e135752191a4()" />
+<Entry OldName="Blazar_Installer.login.login_Load(Object sender, EventArgs e)" NewName="Blazar_Installer.login.ce101087383912958acd5ff253cd4d3c8(Object cec6e3b17b175c836631ffdf3507567a1, EventArgs cb29241352e3a0b90c6b2c75a3273e426)" />
+<Entry OldName="Blazar_Installer.login.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.login.c39dc6bd8affabaa5aefbde199985bf5d(Object cec6e3b17b175c836631ffdf3507567a1, EventArgs cb29241352e3a0b90c6b2c75a3273e426)" />
+<Entry OldName="Blazar_Installer.login.InitializeComponent()" NewName="Blazar_Installer.login.c924ed6994b1b124fe512e135752191a4()" />
+<Entry OldName="Blazar_Installer.Program.Main()" NewName="A.cbe588a4515bc04fb73ba028f4199ef4a.cea15b66cb6a9d9ec511263a11e66376b()" />
+<Entry OldName="Blazar_Installer.Properties.Resources..ctor()" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39..ctor()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_ResourceManager()" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39.get_ResourceManager()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_Culture()" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39.get_Culture()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39.set_Culture(CultureInfo value)" />
+<Entry OldName="Blazar_Installer.Program" NewName="A.cbe588a4515bc04fb73ba028f4199ef4a" />
+<Entry OldName="Blazar_Installer.Properties.Resources" NewName="A.cbae8f6f7cfd3779a72d0284c6b8c4c39" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\Form1.cs" NewName="File0" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\Form1.Designer.cs" NewName="File1" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\login.cs" NewName="File2" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\login.Designer.cs" NewName="File3" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\Program.cs" NewName="File4" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\Properties\Resources.Designer.cs" NewName="File5" />
+<Entry OldName="C:\Users\noctu\source\repos\Blazar Installer\Properties\Settings.Designer.cs" NewName="File6" />
+<Assembly Name="Blazar Installer"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Blazar_Installer.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="button2_Click" Variables="this;sender;e;appdata;mcDir;modDir;versionsDir;libsDir;V_5;di;V_7;V_8;file;V_10;V_11;dir;V_13;di;V_15;V_16;file;V_18;V_19;dir;V_21;di;V_23;V_24;file;V_26;V_27;dir;" ParamCnt="3" />
+<Method Token="100663300" Name="addInfoRTB" Variables="this;info;" ParamCnt="2" />
+<Method Token="100663301" Name="button1_Click" Variables="this;sender;e;cDir;appdata;cLibs;cMods;cVersions;mcDir;modDir;versionsDir;libsDir;palaLibsZip;palaVersionZip;palaModsZip;webClient;downloadString;remoteUri;fileName;myStringWebResource;myWebClient;remoteUrid;fileNamed;myStringWebResourced;myWebClientd;remoteUrit;fileNamet;myStringWebResourcet;myWebClientt;V_26;V_27;V_28;V_29;V_30;" ParamCnt="3" />
+<Method Token="100663302" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663303" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="components" />
+<Field Token="67108866" Name="button1" />
+<Field Token="67108867" Name="button2" />
+<Field Token="67108868" Name="richTextBox1" />
+<Type Token="33554436" Name="Blazar_Installer.login" />
+<Method Token="100663305" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663306" Name="login_Load" Variables="this;sender;e;webClient;V_1;log;" ParamCnt="3" />
+<Method Token="100663307" Name="button1_Click" Variables="this;sender;e;key;V_1;ui;" ParamCnt="3" />
+<Method Token="100663308" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663309" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108869" Name="components" />
+<Field Token="67108870" Name="textBox1" />
+<Field Token="67108871" Name="button1" />
+<Type Token="33554438" Name="Blazar_Installer.Program" />
+<Method Token="100663316" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554439" Name="Blazar_Installer.Properties.Resources" />
+<Method Token="100663317" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663319" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663320" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108873" Name="resourceMan" />
+<Field Token="67108874" Name="resourceCulture" />
+<Type Token="33554440" Name="Blazar_Installer.Properties.Settings" />
+<Method Token="100663321" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663323" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108875" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663304" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\noctu\source\repos\Blazar Installer\Form1.cs" NewName="File0" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\Form1.Designer.cs" NewName="File1" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\login.cs" NewName="File2" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\login.Designer.cs" NewName="File3" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\Program.cs" NewName="File4" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\Properties\Resources.Designer.cs" NewName="File5" />
+<File OldName="C:\Users\noctu\source\repos\Blazar Installer\Properties\Settings.Designer.cs" NewName="File6" />
+</Mappings>

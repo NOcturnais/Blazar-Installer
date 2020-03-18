@@ -1,0 +1,62 @@
+﻿<Mappings><Entry OldName="Blazar_Installer.Form1.components" NewName="Blazar_Installer.Form1.c32872162caec67eead9f0878d373fab2" />
+<Entry OldName="Blazar_Installer.Form1.button1" NewName="Blazar_Installer.Form1.cf295854902f0c9479b79b119e1343e41" />
+<Entry OldName="Blazar_Installer.Form1.button2" NewName="Blazar_Installer.Form1.cc5a83f66003bc8543c9ef5249d706782" />
+<Entry OldName="Blazar_Installer.Form1.richTextBox1" NewName="Blazar_Installer.Form1.ce09515105ca1df9a490b282b43d4af0d" />
+<Entry OldName="Blazar_Installer.login.components" NewName="Blazar_Installer.login.c32872162caec67eead9f0878d373fab2" />
+<Entry OldName="Blazar_Installer.login.textBox1" NewName="Blazar_Installer.login.c20ba12cdf2821135c33d1dbab48606a7" />
+<Entry OldName="Blazar_Installer.login.button1" NewName="Blazar_Installer.login.cf295854902f0c9479b79b119e1343e41" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceMan" NewName="A.cb880f915478ced99d90a922c1fedf4ed.c58fc2712ef8f8c1366459e08fd47baa6" />
+<Entry OldName="Blazar_Installer.Properties.Resources.resourceCulture" NewName="A.cb880f915478ced99d90a922c1fedf4ed.c59e8aa4f723ddf57c1690ed43f090d80" />
+<Entry OldName="Blazar_Installer.Form1.button2_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.c331be8c6a7477b246332f91b701909f4(Object c3a491a9c078e79f76f64d4278a5c5589, EventArgs ccd65f8004c7249dfd5c50ae8546aa9ea)" />
+<Entry OldName="Blazar_Installer.Form1.addInfoRTB(String info)" NewName="Blazar_Installer.Form1.cba7fc41ef5d0aa40365d17da9abe887b(String c89e2d37e29bae433d36a0408b0138e64)" />
+<Entry OldName="Blazar_Installer.Form1.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.Form1.c5755eeddbf3a65b53f30545c3e58cfc4(Object c3a491a9c078e79f76f64d4278a5c5589, EventArgs ccd65f8004c7249dfd5c50ae8546aa9ea)" />
+<Entry OldName="Blazar_Installer.Form1.InitializeComponent()" NewName="Blazar_Installer.Form1.c45fd265c17482c332229cf9229210a81()" />
+<Entry OldName="Blazar_Installer.login.login_Load(Object sender, EventArgs e)" NewName="Blazar_Installer.login.c04a878a651774dc0e941ca68ddd42783(Object c3a491a9c078e79f76f64d4278a5c5589, EventArgs ccd65f8004c7249dfd5c50ae8546aa9ea)" />
+<Entry OldName="Blazar_Installer.login.button1_Click(Object sender, EventArgs e)" NewName="Blazar_Installer.login.c5755eeddbf3a65b53f30545c3e58cfc4(Object c3a491a9c078e79f76f64d4278a5c5589, EventArgs ccd65f8004c7249dfd5c50ae8546aa9ea)" />
+<Entry OldName="Blazar_Installer.login.InitializeComponent()" NewName="Blazar_Installer.login.c45fd265c17482c332229cf9229210a81()" />
+<Entry OldName="Blazar_Installer.Program.Main()" NewName="A.c5fc3da7fee41989c594403f8e034428c.c9204ccb0bbc321bdc52678549f527853()" />
+<Entry OldName="Blazar_Installer.Properties.Resources..ctor()" NewName="A.cb880f915478ced99d90a922c1fedf4ed..ctor()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_ResourceManager()" NewName="A.cb880f915478ced99d90a922c1fedf4ed.get_ResourceManager()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.get_Culture()" NewName="A.cb880f915478ced99d90a922c1fedf4ed.get_Culture()" />
+<Entry OldName="Blazar_Installer.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.cb880f915478ced99d90a922c1fedf4ed.set_Culture(CultureInfo value)" />
+<Entry OldName="Blazar_Installer.Program" NewName="A.c5fc3da7fee41989c594403f8e034428c" />
+<Entry OldName="Blazar_Installer.Properties.Resources" NewName="A.cb880f915478ced99d90a922c1fedf4ed" />
+<Assembly Name="Blazar Installer"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Blazar_Installer.Form1" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="button2_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;" ParamCnt="3" />
+<Method Token="100663300" Name="addInfoRTB" Variables="this;info;" ParamCnt="2" />
+<Method Token="100663301" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;" ParamCnt="3" />
+<Method Token="100663302" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663303" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="components" />
+<Field Token="67108866" Name="button1" />
+<Field Token="67108867" Name="button2" />
+<Field Token="67108868" Name="richTextBox1" />
+<Type Token="33554436" Name="Blazar_Installer.login" />
+<Method Token="100663305" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663306" Name="login_Load" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663307" Name="button1_Click" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663308" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663309" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108869" Name="components" />
+<Field Token="67108870" Name="textBox1" />
+<Field Token="67108871" Name="button1" />
+<Type Token="33554438" Name="Blazar_Installer.Program" />
+<Method Token="100663316" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554439" Name="Blazar_Installer.Properties.Resources" />
+<Method Token="100663317" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663319" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663320" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108873" Name="resourceMan" />
+<Field Token="67108874" Name="resourceCulture" />
+<Type Token="33554440" Name="Blazar_Installer.Properties.Settings" />
+<Method Token="100663321" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663323" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108875" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663304" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
