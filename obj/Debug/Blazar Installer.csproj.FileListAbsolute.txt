@@ -7,9 +7,6 @@ C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar_Installer.Properti
 C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar Installer.csproj.GenerateResource.cache
 C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar Installer.exe
 C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar Installer.pdb
-C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar_Installer.login.resources
-C:\Users\noctu\source\repos\Blazar Installer\bin\Debug\Newtonsoft.Json.dll
-C:\Users\noctu\source\repos\Blazar Installer\bin\Debug\Newtonsoft.Json.Schema.dll
 C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar Installer.csproj.CopyComplete
 C:\Users\noctu\source\repos\Blazar Installer\obj\Debug\Blazar Installer.exe.manifest
 C:\Users\noctu\source\repos\Blazar Installer\bin\Debug\Blazar Installer.exe.manifest

@@ -261,12 +261,22 @@ namespace Blazar_Installer
             System.Net.ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
 
             WebClient webClient = new WebClient();
-            if (!webClient.DownloadString("https://pastebin.com/raw/LFvjNEEP").Contains("1.5"))
+            if (!webClient.DownloadString("https://pastebin.com/raw/LFvjNEEP").Contains("1.6"))
             {
 
                 MessageBox.Show("Une mise à jour est disponible, allez sur le discord pour la télécharger !", "OUAH", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("Pour télécharger Blazar il faut avoir déjà avoir lancé une foi Forge 1.7.10.", "Aide", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Si vous ne l'avais jamais installer alors installer le (forge 1.7.10)", "Aide", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Ensuite pour download le cheat, il vous suffit d'appuyer sur Uninstall et Install", "Aide", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Si on vous demande sur le cheat de faire une mise à jour, il faut faire Uninstall et Install", "Aide", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
     }
